@@ -1,11 +1,11 @@
 .wrapper > header .menu {
-	background: url(../images/header.png);
+	background: url(header.png);
 	width: 782px;
 	height: 89px;
 }
 
 .wrapper > header .btnmenu {
-	background: url(../images/header-click.png);
+	background: url(header-click.png);
 	width: 218px;
 	height: 89px;
 }
@@ -20,7 +20,7 @@ main {
 }
 
 main > section.main {
-	background: url(../images/premios.png) no-repeat 0 69px;
+	background: url(premios.png) no-repeat 0 69px;
 	width: 868px;
 	height: 564px;
 }
@@ -43,19 +43,19 @@ main > section.main > nav > article {
 
 main > section.middle {
 	margin-top: 60px;
-	background: url(../images/middle.png);
+	background: url(middle.png);
 	width: 918px;
 	height: 288px;	
 }
 
 footer {
-	background: url(../images/footer_grad.png);
+	background: url(footer_grad.png);
 	width: 100%;
 	height: 445px;
 }
 
 footer .foo {
-	background: url(../images/footer.png);
+	background: url(footer.png);
 	width: 958px;
 	height: 445px;
 }
@@ -116,14 +116,14 @@ footer .foo {
 }
 
 .xbtn-acessar {
-	background: url(../images/btn_cadastrar.png);
+	background: url(btn_cadastrar.png);
 	width: 91px;
 	height: 32px;
 	margin-top: 20px;
 }
 
 .xbtn-finalizar {
-	background: url(../images/btn_finalizar.png);
+	background: url(btn_finalizar.png);
 	width: 82px;
 	height: 32px;
 	margin-top: 20px;
