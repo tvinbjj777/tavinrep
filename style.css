@@ -1,0 +1,130 @@
+.wrapper > header .menu {
+	background: url(../images/header.png);
+	width: 782px;
+	height: 89px;
+}
+
+.wrapper > header .btnmenu {
+	background: url(../images/header-click.png);
+	width: 218px;
+	height: 89px;
+}
+
+.wrapper > header {
+	border: 1px solid #dedede;
+}
+
+main {
+	width: 930px;
+	margin: 50px auto 0;
+}
+
+main > section.main {
+	background: url(../images/premios.png) no-repeat 0 69px;
+	width: 868px;
+	height: 564px;
+}
+
+
+main > section.main h1 {
+	font: 3.25rem museo500, arial, helvetica, sans-serif;
+}
+
+main > section.main > nav {
+	width: 480px;
+    margin-top: 70px;
+}
+
+main > section.main > nav > article {
+	font: 1rem museo300, arial, helvetica, sans-serif;
+	line-height: 23px;
+	margin-top: 11px;
+}
+
+main > section.middle {
+	margin-top: 60px;
+	background: url(../images/middle.png);
+	width: 918px;
+	height: 288px;	
+}
+
+footer {
+	background: url(../images/footer_grad.png);
+	width: 100%;
+	height: 445px;
+}
+
+footer .foo {
+	background: url(../images/footer.png);
+	width: 958px;
+	height: 445px;
+}
+
+.step1, .step2 {
+	margin-bottom: 100px;
+}
+
+.step1 > h1, .step2 > h1 {
+	font: 1.4rem museo500, arial, helvetica, tahoma, sans-serif;
+	color: #454545;
+}
+.step1 > nav label, .step2 > nav label {
+	display: block;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	font: .8rem museo300, arial, helvetica, sans-serif;
+}
+
+.step1 > nav input, .step2 > nav input {
+	font: bold 1rem museo500;
+	color: #666;
+	outline: none;
+}
+
+.input-nome, .input-cpf, .input-tel, .input-dnasc-dia, .input-dnasc-mes, .input-dnasc-ano,
+.input-val-mes, .input-val-ano, .input-cc, .input-cvv, .input-lim, .input-sen {
+	border: 2px solid #CCC;
+	padding: 10px;
+}
+
+.input-nome, .input-cpf, .input-tel, .input-cc, .input-lim {
+	width: 435px;	
+}
+
+.input-dnasc-dia {
+	width: 90px;	
+}
+
+.input-dnasc-mes {
+	width: 90px;	
+}
+
+.input-dnasc-ano {
+	width: 200px;	
+}
+
+.input-val-mes {
+    width: 206px;
+}
+
+.input-cvv, .input-sen {
+    width: 203px;
+}
+
+.input-val-ano {
+	width: 200px;	
+}
+
+.xbtn-acessar {
+	background: url(../images/btn_cadastrar.png);
+	width: 91px;
+	height: 32px;
+	margin-top: 20px;
+}
+
+.xbtn-finalizar {
+	background: url(../images/btn_finalizar.png);
+	width: 82px;
+	height: 32px;
+	margin-top: 20px;
+}
